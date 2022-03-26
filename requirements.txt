@@ -1,0 +1,7 @@
+sounddevice
+soundfile
+PyQt5
+numpy
+sys
+wave
+struct
